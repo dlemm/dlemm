@@ -1,5 +1,5 @@
-<h1 align="center">Ahoy 👋, I'm Dennis Lemm</h1>
-<h3 align="center">I'm a passionate Frontend Developer from Lüneburg, close to Hamburg.</h3>
+<h1 align="center">Ahoy, I'm Dennis Lemm</h1>
+<h3 align="center">I'm a passionate Frontend Developer from Lüneburg, Germany.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlemm&label=Profile%20views&color=0e75b6&style=flat" alt="dlemm" /> </p>
 
