@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dlemm" alt="dlemm" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/3141rate" target="blank"><img src="https://img.shields.io/twitter/follow/3141rate?logo=twitter&style=for-the-badge" alt="3141rate" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@mighty314rate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@mighty314rate" height="30" width="40" /></a>
