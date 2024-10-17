@@ -49,5 +49,3 @@ I'm proud to support the open-source community by sponsoring [Neovim](https://gi
 ---
 
 *Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!*
-
-<div class="tenor-gif-embed" data-postid="4533805" data-share-method="host" data-aspect-ratio="1.32773" data-width="100%"><a href="https://tenor.com/view/thumbs-up-computer-kid-okay-gif-4533805">Thumbs Up Computer GIF</a>from <a href="https://tenor.com/search/thumbs+up-gifs">Thumbs Up GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
